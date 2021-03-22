@@ -1316,6 +1316,7 @@ body.offcanvas {
   height: 130px; }
 
 .colorlib-nav-toggle {
+  background: azure;
   cursor: pointer;
   text-decoration: none; }
   .colorlib-nav-toggle.active i::before, .colorlib-nav-toggle.active i::after {

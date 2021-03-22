@@ -14,7 +14,7 @@ class Certifcation extends Component {
                 </div>
                     <div class="row">                   
                                 <div class="col -xs-12 col-sm-6 col-md-3 animate-box">
-                                <a href="blog.html" class="blog-img"><img src="{require('images/azure-developer-associate.png')}" class="img-responsive" alt="HTML5 Bootstrap Template by colorlib.com"></img></a>
+                                <a href="blog.html" class="blog-img"><img src="images/azure-developer-associate.png" class="img-responsive" alt="HTML5 Bootstrap Template by colorlib.com"></img></a>
                                 </div>  
                                 <div class="col-xs-10 col-md-6 animate-box">
                                     <dl class="dl-horizontal">

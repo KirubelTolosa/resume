@@ -1,6 +1,8 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "name": "kirubel-resume",
+	"version": "0.1.0",
+	"private": true,
+  "homepage": "https://KirubelTolosa.github.io/resume",
   "icons": [
     {
       "src": "favicon.ico",
@@ -17,9 +19,5 @@
       "type": "image/png",
       "sizes": "512x512"
     }
-  ],
-  "start_url": ".",
-  "display": "standalone",
-  "theme_color": "#000000",
-  "background_color": "#ffffff"
+  ]
 }
